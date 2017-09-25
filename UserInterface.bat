@@ -20,4 +20,5 @@ mkdir %WORKSPACE%/%jobFolder%
 
 cd %WORKSPACE%/%jobFolder%
 
-svn checkout --username %SVN_User% --password %SVN_Password% %DN_PATH%
+REM svn checkout --username %SVN_User% --password %SVN_Password% %DN_PATH%
+
