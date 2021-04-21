@@ -37,5 +37,5 @@ Example:
     python logProcessory.py /root/access.log
     python logProcessory.py /var/log/apache/access.log
 
-- The tool give you options to chose:
+- The tool give you options to chose [0 - 6]:
     - test
