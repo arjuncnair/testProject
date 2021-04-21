@@ -44,4 +44,6 @@ Example:
     * Option 4 | The top 10 hosts making the most requests, displaying the IP address and number of requests made.
     * Option 5 | Percentage of successful requests (anything in the 200s and 300s range)
     * Option 6 | Percentage of unsuccessful requests (anything that is not in the 200s or 300s range)
-    * Option 1 | Exit
+    * Option 0 | Exit
+
+# Sample Output
