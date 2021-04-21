@@ -17,5 +17,5 @@ where:
 - **\”%r\** – The actual request itself from the client
 - **%>s** – The status code Apache returns in response to the request
 - **%b** – The size of the request in bytes.
-- **\”%{Referer}i\”** – Referrer header, or dash if not used  (In other words, did they click a URL on another site to come to your site)
-- **\”%{User-agent}i\** – User agent (contains information about the requester’s browser/OS/etc)
+- \”%{Referer}i\” – Referrer header, or dash if not used  (In other words, did they click a URL on another site to come to your site)
+- \”%{User-agent}i\ – User agent (contains information about the requester’s browser/OS/etc)
