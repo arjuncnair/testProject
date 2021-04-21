@@ -10,7 +10,7 @@ Apache Access Logs that needs to be processed should be in the format mentioned 
     "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\""
 
 where:
-- %h – Remote host (client IP address)
+- ** %h ** – Remote host (client IP address)
 - %l – User identity, or dash, if none (often not used)
 - %u – Username, via HTTP authentication, or dash if not used
 - %t – Timestamp of when Apache received the HTTP request
