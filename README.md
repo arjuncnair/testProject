@@ -7,5 +7,5 @@
 ## Apache Access Logs Formatting:
 Apache Access Logs that needs to be processed should be in the format mentioned below:
 
-    `"%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\""`
+    "%h %l %u %t \"%r\" %>s %b \"%{Referer}i\" \"%{User-agent}i\""
 
