@@ -19,3 +19,5 @@ where:
 - **%b** – The size of the request in bytes.
 - \”%{Referer}i\” – Referrer header, or dash if not used  (In other words, did they click a URL on another site to come to your site)
 - \”%{User-agent}i\ – User agent (contains information about the requester’s browser/OS/etc)
+
+If the logging is not done according to above format, the script will not parse your log file and will store the same in `Error.Log`
