@@ -21,3 +21,6 @@ where:
 - \”%{User-agent}i\ – User agent (contains information about the requester’s browser/OS/etc)
 
 For logs that does not follow above format, the script will not parse your log file and will store the same in `Error.Log`
+
+## How to Use logProcessor.py
+
