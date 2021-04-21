@@ -27,4 +27,10 @@ Using the tool is an easy process. Please follow below steps:
 - Clone this Repo
 - Use Below Command to Process Log
 
-`python logProcessory.py access.log`
+Syntax:
+
+                                python logProcessor.py <ApacheAccessLogFile>
+Example:
+                                python logProcessory.py access.log
+                                python logProcessory.py /root/access.log
+                                python logProcessory.py /var/log/apache/access.log
