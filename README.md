@@ -46,4 +46,4 @@ Example:
     * Option 6 | Percentage of unsuccessful requests (anything that is not in the 200s or 300s range)
     * Option 0 | Exit
 
-# Sample Output
+## Sample Output
