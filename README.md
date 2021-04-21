@@ -29,7 +29,8 @@ Using the tool is an easy process. Please follow below steps:
 
 Syntax:
 
-                                python logProcessor.py <ApacheAccessLogFile>
+    python logProcessor.py <ApacheAccessLogFile>
+    
 Example:
 
     python logProcessory.py access.log
