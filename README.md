@@ -26,4 +26,5 @@ For logs that does not follow above format, the script will not parse your log f
 Using the tool is an easy process. Please follow below steps:
 - Clone this Repo
 - Use Below Command to Process Log
+
             python logProcessory.py access.log
