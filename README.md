@@ -38,6 +38,7 @@ Example:
     python logProcessory.py /var/log/apache/access.log
 
 - The tool give you options to chose [ 0 - 6 ]:
+
     * Option 1 | Top 10 Requested Pages and Number of requests made for each (Includes both succesful/Unsuccesfull Page Requests)
     * Option 2 | Top 10 Successful page requests
     * Option 3 | Top 10 Unsuccessful page requests
