@@ -38,10 +38,10 @@ Example:
     python logProcessory.py /var/log/apache/access.log
 
 - The tool give you options to chose [ 0 - 6 ]:
-    1. Top 10 Requested Pages and Number of requests made for each (Includes both succesful/Unsuccesfull Page Requests)
-    2. Top 10 Successful page requests
-    3. Top 10 Unsuccessful page requests
-    4. The top 10 hosts making the most requests, displaying the IP address and number of requests made.
-    5. Percentage of successful requests (anything in the 200s and 300s range)
-    6. Percentage of unsuccessful requests (anything that is not in the 200s or 300s range)
-    0. Exit
+    a. Top 10 Requested Pages and Number of requests made for each (Includes both succesful/Unsuccesfull Page Requests)
+    b. Top 10 Successful page requests
+    c. Top 10 Unsuccessful page requests
+    d. The top 10 hosts making the most requests, displaying the IP address and number of requests made.
+    e. Percentage of successful requests (anything in the 200s and 300s range)
+    f. Percentage of unsuccessful requests (anything that is not in the 200s or 300s range)
+    g. Exit
