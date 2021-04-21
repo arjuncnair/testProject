@@ -36,3 +36,6 @@ Example:
     python logProcessory.py access.log
     python logProcessory.py /root/access.log
     python logProcessory.py /var/log/apache/access.log
+
+- The tool give you options to chose:
+    - test
