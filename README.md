@@ -31,6 +31,7 @@ Syntax:
 
                                 python logProcessor.py <ApacheAccessLogFile>
 Example:
+
                                 python logProcessory.py access.log
                                 python logProcessory.py /root/access.log
                                 python logProcessory.py /var/log/apache/access.log
